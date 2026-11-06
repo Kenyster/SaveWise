@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" fill="#E0262F"/>
+  <circle cx="470" cy="40" r="130" fill="#FF9EA1"/>
+  <path d="M120 270 q-50 -20 -22 -70" stroke="#fff" stroke-width="18" fill="none" stroke-linecap="round"/>
+  <ellipse cx="256" cy="290" rx="150" ry="105" fill="#fff"/>
+  <polygon points="300,200 365,165 345,235" fill="#FF9EA1"/>
+  <rect x="345" y="270" width="75" height="58" rx="29" fill="#FF9EA1"/>
+  <circle cx="368" cy="296" r="6" fill="#8B0F1B"/><circle cx="395" cy="296" r="6" fill="#8B0F1B"/>
+  <circle cx="320" cy="262" r="9" fill="#8B0F1B"/>
+  <rect x="195" y="195" width="90" height="14" rx="7" fill="#8B0F1B"/>
+  <circle cx="240" cy="150" r="32" fill="#FF9EA1" stroke="#fff" stroke-width="6"/>
+  <text x="240" y="162" font-size="34" font-weight="800" text-anchor="middle" fill="#8B0F1B" font-family="Arial">₱</text>
+  <rect x="165" y="370" width="50" height="50" rx="25" fill="#fff"/>
+  <rect x="295" y="370" width="50" height="50" rx="25" fill="#fff"/>
+</svg>
